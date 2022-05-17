@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private String zeroFormatado = currencyFormat.format(0);
     private double billAmount = 0;
     private double tipPercentage = 0.15;
+    //hola
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
